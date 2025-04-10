@@ -19,7 +19,7 @@
 ![UML](https://img.shields.io/badge/UML-007ACC?style=for-the-badge&logo=uml&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
----
+
 
 ## 🌐 Frameworks & Tools
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
@@ -33,7 +33,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
 
----
+
 
 ## 📫 **Let’s Connect!**  
 🔗 Reach out via **[Email](mailto:marioclaveroartal@gmail.com)** or check out my work on **[GitHub](https://github.com/mariocla)**. 
