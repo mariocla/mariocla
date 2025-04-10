@@ -38,7 +38,7 @@
 ![CapCut](https://img.shields.io/badge/CapCut-FF4956?style=for-the-badge&logo=capcut&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
-### 🧑‍💻 **Basic Tools**  
+## 🧑‍💻 **Basic Tools**  
 ![Word](https://img.shields.io/badge/Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![PowerPoint](https://img.shields.io/badge/PowerPoint-D83B01?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
