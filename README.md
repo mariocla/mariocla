@@ -1,4 +1,4 @@
-# 👋 Hey there! I'm @mariocla
+# 👋 Hellooo! I'm @mariocla
 
 🎓 I'm a Computer Engineering student with a passion for writing code and exploring everything from low-level systems to modern web frameworks. Always learning, always coding.
 📍 Based in Spain | 💻 Future software engineer in the making
@@ -29,6 +29,9 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![Visual Paradigm](https://img.shields.io/badge/Visual%20Paradigm-FF2D20?style=for-the-badge&logoColor=white)
 ![Terminal](https://img.shields.io/badge/Terminal-black?style=for-the-badge&logo=gnubash&logoColor=white)
 
 ---
