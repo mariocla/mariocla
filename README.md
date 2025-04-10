@@ -48,7 +48,7 @@
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 ![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)
 ![Google Meet](https://img.shields.io/badge/Google%20Meet-00897B?style=for-the-badge&logo=google-meet&logoColor=white)
-
+![Genially](https://img.shields.io/badge/Genially-13B8A6?style=for-the-badge&logo=genially&logoColor=white)  
 
 ## 📫 **Let’s Connect!**  
 🔗 Reach out via **[Email](mailto:marioclaveroartal@gmail.com)** or check out my work on **[GitHub](https://github.com/mariocla)**. 
